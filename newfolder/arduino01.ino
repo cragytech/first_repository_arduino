@@ -3,3 +3,6 @@ int b =
 
 int main(){
 
+int loop(){
+  digitalWrite(12,HIGH);
+}
