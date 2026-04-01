@@ -1,3 +1,5 @@
+// This project is about to build an digital verson of real sand_clock by using some led displays, inertial mesuremet and arduino uno 
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <LedControl.h>
